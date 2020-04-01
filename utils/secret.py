@@ -1,2 +1,2 @@
-username = "click.here._.now"
-password = "Ap747576346776!"
+username = "username"
+password = "password"
