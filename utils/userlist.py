@@ -1,1 +1,1 @@
-users = ['dog', 'thedogist', 'puppy', 'pawz', 'paw','pupbox','animal', 'pawnaticos']
+users = ['user1', 'user2', 'user3']
