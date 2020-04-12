@@ -1,1 +1,1 @@
-hashtag_list = ['puppylove', 'puppy', 'pup', 'dog', 'puppylove', 'puppy', 'pup','dog','puppylove', 'pup', 'dog']
+hashtag_list = ['word1', 'word2', 'word3']
